@@ -14,7 +14,7 @@ The Docker container will be created and started on port :5000.
 
 # Making a request
 
-In this link you can pass the address:
+In this url you can pass the address:
 
 ```
 http://localhost:5000/getdistance/getaddress?address=Moscow
