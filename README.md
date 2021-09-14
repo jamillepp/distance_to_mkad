@@ -1,6 +1,6 @@
 # distance_to_mkad
 
-Its a simple flask application to calculate the distance between a passed adress and MKAD.
+Its a simple flask application to calculate the distance between a passed address and MKAD.
 
 # Start app
 
