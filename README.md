@@ -19,7 +19,7 @@ In this url you can pass the address:
 ```
 http://localhost:5000/getdistance/getaddress?address=Moscow
 ```
-The 'address' variables accepts string, lat/lng and plus code. You can read more aboute here:
+The 'address' variables accepts string, lat/lng and plus code. You can read more about here:
 https://developers.google.com/maps/documentation/geocoding/overview
 
 ### Thats it :)
